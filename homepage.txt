@@ -1,6 +1,11 @@
-class Calculator
+class School
 {
 public static void main(String[] args)
+{
+School sc = new School(); 
+sc.openSchool(); 
+}
+public void openSchool()
 {
 
 }
