@@ -1,8 +1,13 @@
-class Calculator
+class School
 {
 public static void main(String[] args)
 {
-Calculator calc = new Calculator(); 
+School sc = new School(); 
+sc.openSchool(); 
+}
+public void openSchool()
+{
+
 }
 
 }
